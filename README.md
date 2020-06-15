@@ -8,3 +8,4 @@ Projects from Frontend Masters in HTML, CSS and JavaScript languages.
 ## Becoming a Career-Ready Web Developer Projects
 
 * Create a website by working off a pre-made design : https://codepen.io/Pixelus/pen/BajLygb - build with HTML and CSS
+* Code a calculator : https://codepen.io/Pixelus/pen/VweKLZX - build with HTML, CSS, JavaScript, and the DOM
