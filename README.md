@@ -4,6 +4,7 @@ Projects from Frontend Masters in HTML, CSS and JavaScript languages.
 ## Frontend Bootcamp Projects
 
 * Code a blog page : https://codepen.io/Pixelus/pen/vYLXYRG - build with HTML and CSS
+* Create a calculator : https://codepen.io/Pixelus/pen/VweKLZX - build with HTML and CSS
 
 ## Becoming a Career-Ready Web Developer Projects
 
